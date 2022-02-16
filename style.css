@@ -549,8 +549,7 @@ body {
     padding-bottom:100px;
     background-image:url('img2/d-iot-1.png');
     background-size:cover;
-    padding-top:0px;
-    padding-bottom:0px;
+    
     background-repeat:no-repeat;
     background-position:0 -60px;
 }

@@ -306,7 +306,7 @@ body {
     padding:20px;
     border-radius: 20px;
     display:inline-block;
-    margin-left:5px;
+    margin-left:10px;
     margin-top:20px;
     margin-right:0px;
     background-color:rgba(255,255,255,.8);
@@ -526,11 +526,17 @@ body {
 
 .k-iot .k-k-iot .j-rekomendasi{
     font-size: 26px;
-    margin-left: 10px;
+    margin-left: 20px;
 }
 
 .k-iot .k-k-iot .r-1{
-    margin-left: 0px;
+    margin-top:0px;
+}
+.k-iot .k-k-iot .r-1,
+.k-iot .k-k-iot .r-2,
+.k-iot .k-k-iot .r-3,
+.k-iot .k-k-iot .r-4{
+    margin-left: 20px;
 }
 /* ------------------- */
 
@@ -543,19 +549,19 @@ body {
     padding-bottom:100px;
     background-image:url('img2/d-iot-1.png');
     background-size:cover;
+    padding-top:0px;
+    padding-bottom:0px;
     background-repeat:no-repeat;
-    padding-top:50px;
-    padding-bottom:50px;
     background-position:0 -60px;
 }
 .sub-j-kd-welcome{
     font-size:22px;
-    margin-left:20px;
+    margin-left:30px;
     color:white;
     margin-top:50px;
 }
 .kd-welcome .j-kd-welcome{
-    font-size:45px;
+    font-size:40px;
     margin-left:20px;
     color:white;
     margin-right: 0px;
@@ -565,7 +571,7 @@ body {
 .p-j-kd-welcome{
      color:white;
      font-size:16px;
-     margin-left:20px;
+     margin-left:30px;
      margin-right: 0px;
      line-height:25px;
 }
@@ -576,7 +582,7 @@ body {
     font-weight:bold;
     background-color: #cc2d3f;
     border:none;
-    margin-left:20px;
+    margin-left:30px;
     width: 200px;
     height:50px;
     border-radius:20px;
@@ -598,7 +604,7 @@ body {
     font-size:22px;
     margin-left:0px;
     text-align:center;
-    margin-top:100px;
+    margin-top:0px;
 }
 .tkd .j-tkd{
     font-size:40px;
@@ -624,7 +630,7 @@ body {
 
 
 .benefits-tkd{
-    margin-top:50px;
+    margin-top:0px;
     background-image:url('img2/bg-benefits.png');
     background-repeat:no-repeat;
     background-size:cover;
@@ -661,8 +667,9 @@ body {
 .benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-2,
 .benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-3,
 .benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-4{
-    width: 300px;
+    width:300px;
     margin-top:20px;
+    margin-right:px;
     box-shadow:0 2px 5px rgba(0,0,0,.5);
     border-radius:30px;
     background-color:rgba(255,255,255,.8);
@@ -685,9 +692,10 @@ body {
 
 .benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-4{
     padding:20px;
-    margin-top:10px;
+    margin-top:20px;
     margin-right:0px;
     margin-left:10px;
+    width:300px;
 }
 
 .benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-4 img{
@@ -724,7 +732,7 @@ body {
     padding:20px;
     margin-top:10px;
     
-    margin-left:-20px;
+    margin-left:-50px;
 }
 
 .materi .k-materi ul li h2{
@@ -747,8 +755,7 @@ body {
     border-bottom:1px solid black;
     padding:20px;
     margin-top:10px;
-    width:900px;
-    margin-left:200px;
+    margin-left:-50px;
 }
 
 .materi-tkm .k-materi-tkm ul li h2{
@@ -769,29 +776,27 @@ body {
     background-image:url('img2/d-iot-2-1.png');
     background-size:cover;
     background-repeat:no-repeat;
-    padding-top:50px;
-    padding-bottom:50px;
     background-position:0 -60px;
 }
 .sub-j-km-welcome{
     font-size:22px;
-    margin-left:100px;
+    margin-left:30px;
     color:white;
-    margin-top:100px;
+    margin-top:50px;
 }
 .km-welcome .j-km-welcome{
-    font-size:45px;
-    margin-left:100px;
+    font-size:40px;
+    margin-left:30px;
     color:white;
-    margin-right: 700px;
+    margin-right: 0px;
     margin-top:-15px;
 }
 
 .p-j-km-welcome{
      color:white;
      font-size:16px;
-     margin-left:100px;
-     margin-right: 700px;
+     margin-left:30px;
+     margin-right: 0px;
      line-height:25px;
 }
 
@@ -801,24 +806,22 @@ body {
     font-weight:bold;
     background-color: #cc2d3f;
     border:none;
-    margin-left:100px;
+    margin-left:30px;
     width: 200px;
     height:50px;
     border-radius:20px;
     box-shadow: 0 2px 2px rgba(0,0,0,.2);
 }
 
-.tkm{
-    margin-top:100px;
-}
+
 .tkm{
     font-size:22px;
     margin-left:0px;
     text-align:center;
-    margin-top:100px;
+    margin-top:0px;
 }
 .tkm .j-tkm{
-    font-size:45px;
+    font-size:40px;
     margin-left:0px;
     margin-right: 0px;
     margin-top:-15px;
@@ -839,7 +842,7 @@ body {
 .tkm .k-tkm ol li{
     text-align:left;
     font-size: 18px;
-    margin-left:100px;
+    margin-left:0px;
     
 }
 
@@ -852,29 +855,27 @@ body {
     background-image:url('img2/d-iot-3-1.png');
     background-size:cover;
     background-repeat:no-repeat;
-    padding-top:50px;
-    padding-bottom:50px;
     background-position:0 -60px;
 }
 .sub-j-kl-welcome{
     font-size:22px;
-    margin-left:100px;
+    margin-left:30px;
     color:white;
-    margin-top:100px;
+    margin-top:50px;
 }
 .kl-welcome .j-kl-welcome{
-    font-size:45px;
-    margin-left:100px;
+    font-size:40px;
+    margin-left:30px;
     color:white;
-    margin-right: 700px;
+    margin-right:0px;
     margin-top:-15px;
 }
 
 .p-j-kl-welcome{
      color:white;
      font-size:16px;
-     margin-left:100px;
-     margin-right: 700px;
+     margin-left:30px;
+     margin-right: 0px;
      line-height:25px;
 }
 
@@ -884,7 +885,7 @@ body {
     font-weight:bold;
     background-color: #cc2d3f;
     border:none;
-    margin-left:100px;
+    margin-left:30px;
     width: 200px;
     height:50px;
     border-radius:20px;
@@ -905,29 +906,27 @@ body {
     background-image:url('img2/d-iot-4-1.png');
     background-size:cover;
     background-repeat:no-repeat;
-    padding-top:50px;
-    padding-bottom:50px;
     background-position:0 -60px;
 }
 .sub-j-k-lite-welcome{
     font-size:22px;
-    margin-left:100px;
+    margin-left:30px;
     color:white;
-    margin-top:100px;
+    margin-top:50px;
 }
 .k-lite-welcome .j-k-lite-welcome{
     font-size:45px;
-    margin-left:100px;
+    margin-left:30px;
     color:white;
-    margin-right: 700px;
+    margin-right: 0px;
     margin-top:-15px;
 }
 
 .p-j-k-lite-welcome{
      color:white;
      font-size:16px;
-     margin-left:100px;
-     margin-right: 700px;
+     margin-left:30px;
+     margin-right: 0px;
      line-height:25px;
 }
 
@@ -937,7 +936,7 @@ body {
     font-weight:bold;
     background-color: #cc2d3f;
     border:none;
-    margin-left:100px;
+    margin-left:30px;
     width: 200px;
     height:50px;
     border-radius:20px;
@@ -2516,6 +2515,8 @@ body {
 .benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-2,
 .benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-3,
 .benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-4{
+    width:400px;
+    margin-top:20px;
     box-shadow:0 2px 5px rgba(0,0,0,.5);
     border-radius:30px;
     background-color:rgba(255,255,255,.8);
@@ -2527,6 +2528,7 @@ body {
     margin-top:10px;
     margin-right:300px;
     margin-left:300px;
+    width:800px;
 }
 
 .benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-4 img{

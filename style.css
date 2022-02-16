@@ -1,0 +1,2815 @@
+body {
+   margin: 0;
+   font-family: Century Gothic;
+}
+
+
+.container{
+    width:100%; 
+    background-image:url('img2/bg-about-us.jpg');
+    background-size:cover;
+    background-repeat:no-repeat;
+    position:relative;
+    z-index:99;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color:;
+}
+
+.topnav a {
+  float:right;
+  display: inline-block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  margin-top:7px;
+  margin-right: 0px;
+}
+
+
+.topnav a.active {
+  font-weight:bold;
+}
+
+.topnav .logo{
+    float: left;
+    font-size:25px;
+    font-weight:bold;
+    margin-left: 100px;
+    margin-top:0px;
+}
+
+.topnav .kategori{
+    margin-right: 100px;
+}
+
+.topnav .icon {
+  display: none;
+}
+
+/* ------------------- */
+
+.welcome{
+    background-image:url('img2/bg-welcome-2.png');
+    background-size:cover;
+    background-repeat:no-repeat;
+    padding-top:100px;
+    padding-bottom:100px;
+}
+
+.welcome .k-welcome h1{
+    font-family: Century Gothic;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size:38px;
+}
+
+.welcome .k-welcome p{
+   font-size: 18px;
+   line-height:36px;
+   text-align:justify;
+   margin-left:20px;
+   margin-right:20px;
+   margin-top:-10px;
+}
+
+.welcome .k-welcome .daftar{
+    color:white;
+    font-size:16px;
+    font-weight:bold;
+    background-color: #cc2d3f;
+    border:none;
+    margin-left:20px;
+    width: 200px;
+    height:50px;
+    border-radius:20px;
+    box-shadow: 0 2px 2px rgba(0,0,0,.2);
+}
+
+
+/* ------------------- */
+
+
+/* ------------------- */
+
+.t-sekolahkami{
+    margin-top:50px;
+  
+}
+
+.t-sekolahkami .k-t-sekolahkami h1{
+     font-size:40px;
+     font-family: Century Gothic;
+     margin-left: 36px;
+}
+
+.t-sekolahkami .k-t-sekolahkami .p-t-sk-utama{
+     font-size:20px;
+     font-family: Century Gothic;
+     margin-left: 100px;
+     margin-right: 100px;
+     line-height:30px;
+     text-align:justify;
+     display:none;
+}
+
+.t-sekolahkami .k-t-sekolahkami .p-t-sk-kedua{
+     font-size:20px;
+     font-family: Century Gothic;
+     margin-left: 20px;
+     margin-right: 20px;
+     line-height:30px;
+     text-align:justify;
+     display:block;
+}
+
+
+/* ------------------- */
+
+
+
+/* ------------------- */
+
+.masalah{
+    margin-top:100px;
+}
+
+.masalah .k-masalah{
+    background-image:url('img2/bg-masalah-2.png');
+    background-size:cover;
+    background-repeat:no-repeat;
+    padding-top:50px;
+    padding-bottom:50px;
+    background-position:0 -60px;
+}
+
+.masalah .k-masalah h1{
+     font-family: Century Gothic;
+     font-size:25px;
+     margin-left:20px;
+      color:white;
+}
+
+.masalah .k-masalah .m-1,
+.masalah .k-masalah .m-2,
+.masalah .k-masalah .m-3{
+    margin-top:10px;
+    margin-left:20px;
+    margin-right:20px;
+    box-shadow: 0 5px 10px rgba(0,0,0,.5);
+    padding:20px;
+    border-radius:20px;
+    background-color:rgba(255,255,255,.8);
+    display:inline-block;
+}
+
+.masalah .k-masalah .m-2,
+.masalah .k-masalah .m-3{
+    margin-left:20px;
+    margin-right:20px;
+    box-shadow: 0 5px 10px rgba(0,0,0,.5);
+    padding:20px;
+    border-radius:20px;
+}
+
+.masalah .k-masalah .m-1 img,
+.masalah .k-masalah .m-2 img,
+.masalah .k-masalah .m-3 img{
+    width:55px;
+}
+
+.masalah .k-masalah .m-1 h2,
+.masalah .k-masalah .m-2 h2,
+.masalah .k-masalah .m-3 h2{
+    font-size:20px;
+    font-weight:bold;
+}
+
+.masalah .k-masalah .m-1 p,
+.masalah .k-masalah .m-2 p,
+.masalah .k-masalah .m-3 p{
+    font-size:17px;
+    margin-right:0px;
+    
+}
+
+
+/* ------------------- */
+
+.mengapa-kami{
+    margin-top:50px;
+    margin-right:0;
+    text-align:center;
+}
+
+.mengapa-kami .k-mengapa-kami h1{
+    text-align:center;
+    font-size:36px;
+}
+
+.mengapa-kami .k-mengapa-kami .p-h1{
+    text-align:center;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    margin-top:-20px;
+    line-height:30px;
+}
+
+
+.mengapa-kami .k-mengapa-kami .why-1,
+.mengapa-kami .k-mengapa-kami .why-2,
+.mengapa-kami .k-mengapa-kami .why-3{
+      width: 400px;
+      margin-top:0px;
+      background-color:;
+      margin-left:0px;
+      padding:20px;
+      margin-left:0px;
+      display:inline-block;
+}
+
+.mengapa-kami .k-mengapa-kami .why-2,
+.mengapa-kami .k-mengapa-kami .why-3{
+     margin-left:0px;
+     
+}
+
+.mengapa-kami .k-mengapa-kami .why-3{
+    margin-right:0px;
+}
+
+.mengapa-kami .k-mengapa-kami .why-1 img,
+.mengapa-kami .k-mengapa-kami .why-2 img,
+.mengapa-kami .k-mengapa-kami .why-3 img
+{
+    width : 70px;
+     margin-right: 100px;
+}
+.mengapa-kami .k-mengapa-kami .why-1 h2,
+.mengapa-kami .k-mengapa-kami .why-2 h2,
+.mengapa-kami .k-mengapa-kami .why-3 h2
+{
+   font-size:18px;
+   margin-right: 100px;
+}
+
+.mengapa-kami .k-mengapa-kami .why-2 h2,
+.mengapa-kami .k-mengapa-kami .why-3 h2
+{
+    font-size:18px;
+    margin-bottom:0px;
+}
+
+
+.mengapa-kami .k-mengapa-kami .why-1 p,
+.mengapa-kami .k-mengapa-kami .why-2 p,
+.mengapa-kami .k-mengapa-kami .why-3 p{
+    font-size:16px;
+    text-align:justify;
+    line-height:30px;
+    margin-right: 100px;
+}
+.mengapa-kami .k-mengapa-kami .why-3 p{
+   
+}
+
+/* ------------------- */
+
+
+
+/* ------------------- */
+
+.rekomendasi{
+    margin-top:50px;
+    margin-left:0px;
+    margin-right:0px;
+}
+
+.rekomendasi h1{
+    margin-left:30px;
+    
+}
+
+.rekomendasi .k-rekomendasi .r-1,
+.rekomendasi .k-rekomendasi .r-2,
+.rekomendasi .k-rekomendasi .r-3,
+.rekomendasi .k-rekomendasi .r-4
+{
+    width:300px;
+    text-align:center;
+    box-shadow:0 2px 5px rgba(0,0,0,.5);
+    padding:20px;
+    border-radius: 20px;
+    display:inline-block;
+    margin-left:5px;
+    margin-top:20px;
+    margin-right:0px;
+    background-color:rgba(255,255,255,.8);
+    
+}
+
+.rekomendasi .k-rekomendasi .r-2,
+.rekomendasi .k-rekomendasi .r-3{
+    
+}
+
+.rekomendasi .k-rekomendasi .r-1 img{
+    width:250px;
+}
+
+.rekomendasi .k-rekomendasi .r-2 img{
+    width:265px;
+}
+
+.rekomendasi .k-rekomendasi .r-3 img{
+    width:260px;
+}
+
+.rekomendasi .k-rekomendasi .r-4 img{
+    width: 247px;
+}
+
+
+.rekomendasi .k-rekomendasi .r-1 img,
+.rekomendasi .k-rekomendasi .r-2 img,
+.rekomendasi .k-rekomendasi .r-3 img,
+.rekomendasi .k-rekomendasi .r-4 img{
+  margin-top:20px;
+  border-radius:30px;
+}
+
+.rekomendasi .k-rekomendasi .r-1 h2,
+.rekomendasi .k-rekomendasi .r-2 h2,
+.rekomendasi .k-rekomendasi .r-3 h2,
+.rekomendasi .k-rekomendasi .r-4 h2
+{
+    text-align:left;
+    font-size: 18px;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+.rekomendasi .k-rekomendasi .r-2 h2
+{
+    
+}
+
+.rekomendasi .k-rekomendasi .r-1 p,
+.rekomendasi .k-rekomendasi .r-2 p,
+.rekomendasi .k-rekomendasi .r-3 p,
+.rekomendasi .k-rekomendasi .r-4 p,
+.rekomendasi .k-rekomendasi .r-1 .p-r-1,
+.rekomendasi .k-rekomendasi .r-2 .p-r-2,
+.rekomendasi .k-rekomendasi .r-3 .p-r-3,
+.rekomendasi .k-rekomendasi .r-4 .p-r-4{
+    text-align:justify;
+    font-size: 25px;
+    font-weight:bold;
+    margin-left: 10px;
+    margin-right: 20px;
+    font-family:Calibri;
+}
+
+.rekomendasi .k-rekomendasi .r-1 .p-r-1,
+.rekomendasi .k-rekomendasi .r-2 .p-r-2,
+.rekomendasi .k-rekomendasi .r-3 .p-r-3,
+.rekomendasi .k-rekomendasi .r-4 .p-r-4{
+    text-align:justify;
+    font-size: 14px;
+    margin-left: 10px;
+    margin-right: 20px;
+    font-weight:normal;
+}
+
+.rekomendasi .k-rekomendasi .l-h{
+    color: #cc2d3f;
+    font-size:16px;
+    font-weight:bold;
+    background-color:transparent;
+    border:3px solid #cc2d3f;
+    margin-left:0px;
+    width: 300px;
+    height:50px;
+    border-radius:10px;
+    box-shadow: 0 2px 2px rgba(0,0,0,.2);
+}
+
+/* ------------------- */
+
+
+
+/* ------------------- */
+
+.persuasi{
+    margin-top:50px;
+    
+}
+
+.persuasi .p-1,
+.persuasi .p-2{
+}
+
+.persuasi .p-2{
+    
+}
+
+.persuasi .p-1 img{
+    width: 480px;
+    margin-left:-80px;
+}
+
+.persuasi .p-1 .bg-p{
+    width: 1314px;
+    height:280px;
+    margin-left:100px;
+    position:absolute;
+    margin-top:87px;
+    z-index:-1;
+    filter:drop-shadow(0 5px 5px rgba(0,0,0,.5));
+    display:none;
+}
+
+.persuasi .p-2 h1{
+    font-weight:bold;
+    font-size:30px;
+    margin-top:20px;
+    margin-left:30px;
+    margin-right:30px;
+    font-family:Franklin Gothic Medium;
+}
+
+.persuasi .p-2 .daftar{
+    color:white;
+    font-size:16px;
+    font-weight:bold;
+    background-color: #cc2d3f;
+    border:none;
+    margin-left:30px;
+    width: 200px;
+    height:50px;
+    border-radius:20px;
+    box-shadow: 0 2px 2px rgba(0,0,0,.2);
+}
+
+
+
+/* ------------------- */
+
+.f-kontak{
+    margin-top:100px;
+    margin-left:0px;
+    background-color:rgba(159,174,179,.5);
+}
+
+.f-kontak .k-f-kontak .fk-1,
+.f-kontak .k-f-kontak .fk-2{
+   
+}
+
+.f-kontak .k-f-kontak .fk-1 h2{
+    font-size:16px;
+    margin-left:0px;
+}
+
+.f-kontak .k-f-kontak .fk-1 p{
+     margin-left:0px;
+     margin-right:0px;
+     font-size:17px;
+}
+
+
+.f-kontak .k-f-kontak .fk-2-utama{
+    margin-top:-61px;
+    display:none;
+}
+
+.f-kontak .k-f-kontak .fk-2-kedua{
+    margin-top:-61px;
+    display:inline;
+}
+
+.f-kontak .k-f-kontak .fk-2-kedua h2{
+    font-size:16px;
+    margin-left:0px;
+}
+
+.f-kontak .k-f-kontak .fk-2-kedua img{
+    margin-left:0px;
+    margin-right:0px;
+    width:350px;
+}
+
+.copyright{
+    padding:5px;
+    text-align:center;
+    font-weight: bold;
+}
+
+
+/* ------------------- */
+
+
+/* ------------------- */
+
+.k-iot{
+    padding-top:100px;
+}
+
+.k-iot .k-k-iot .j-k-iot{
+    text-align:center;
+    font-size:30px;
+}
+
+.k-iot .k-k-iot .j-rekomendasi{
+    font-size: 26px;
+    margin-left: 10px;
+}
+
+.k-iot .k-k-iot .r-1{
+    margin-left: 0px;
+}
+/* ------------------- */
+
+
+
+/* ------------------- */
+
+.kd-welcome{
+    padding-top:100px;
+    padding-bottom:100px;
+    background-image:url('img2/d-iot-1.png');
+    background-size:cover;
+    background-repeat:no-repeat;
+    padding-top:50px;
+    padding-bottom:50px;
+    background-position:0 -60px;
+}
+.sub-j-kd-welcome{
+    font-size:22px;
+    margin-left:20px;
+    color:white;
+    margin-top:50px;
+}
+.kd-welcome .j-kd-welcome{
+    font-size:45px;
+    margin-left:20px;
+    color:white;
+    margin-right: 0px;
+    margin-top:-15px;
+}
+
+.p-j-kd-welcome{
+     color:white;
+     font-size:16px;
+     margin-left:20px;
+     margin-right: 0px;
+     line-height:25px;
+}
+
+.kd-welcome .daftar{
+    color:white;
+    font-size:16px;
+    font-weight:bold;
+    background-color: #cc2d3f;
+    border:none;
+    margin-left:20px;
+    width: 200px;
+    height:50px;
+    border-radius:20px;
+    box-shadow: 0 2px 2px rgba(0,0,0,.2);
+}
+
+
+/* ------------------- */
+
+
+
+
+/* ------------------- */
+
+.tkd{
+    margin-top:0px;
+}
+.sub-j-tkd{
+    font-size:22px;
+    margin-left:0px;
+    text-align:center;
+    margin-top:100px;
+}
+.tkd .j-tkd{
+    font-size:40px;
+    margin-left:0px;
+    margin-right: 0px;
+    margin-top:-15px;
+    text-align:center;
+}
+
+.p-j-tkd,
+.p-j-tkd-2,
+.p-j-tkd-3
+{
+     font-size:18px;
+     margin-left:20px;
+     margin-right:20px;
+     line-height:30px;
+     text-align:justify
+}
+
+
+/* ------------------- */
+
+
+.benefits-tkd{
+    margin-top:50px;
+    background-image:url('img2/bg-benefits.png');
+    background-repeat:no-repeat;
+    background-size:cover;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.benefits-tkd .k-benefits-tkd .j-benefits-tkd{
+    margin-left:0px;
+    font-size: 35px;
+    text-align:center;
+    color:white;
+   
+}
+
+.benefits-tkd .k-benefits-tkd .mengapa-kami{
+    margin-top:0;
+}
+
+.benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-1,
+.benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-3{
+    margin-right:0px;
+}
+
+.benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-3{
+    margin-left:0px;
+}
+
+.benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-2{
+    margin-top:0px;
+}
+
+.benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-1,
+.benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-2,
+.benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-3,
+.benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-4{
+    width: 300px;
+    margin-top:20px;
+    box-shadow:0 2px 5px rgba(0,0,0,.5);
+    border-radius:30px;
+    background-color:rgba(255,255,255,.8);
+}
+
+.benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-1 img,
+.benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-2 img,
+.benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-3 img,
+.benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-4 img{
+    margin-right: 0px;
+}
+
+.benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-1 h2,
+.benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-2 h2,
+.benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-3 h2,
+.benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-4 h2{
+    
+    margin-right: 0px;
+}
+
+.benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-4{
+    padding:20px;
+    margin-top:10px;
+    margin-right:0px;
+    margin-left:10px;
+}
+
+.benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-4 img{
+    width:70px
+}
+
+.benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-4 h2{
+    font-size:20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+
+/* ------------------- */
+
+
+
+/* ------------------- */
+
+
+.materi{
+    margin-top:50px;
+}
+
+.materi .k-materi h1{
+    text-align:center;
+    font-size: 40px;
+}
+
+.materi .k-materi ul li{
+    display:block;
+    border-bottom:1px solid black;
+    padding:20px;
+    margin-top:10px;
+    
+    margin-left:-20px;
+}
+
+.materi .k-materi ul li h2{
+    font-size:16px;
+}
+
+/* ------------------- */
+
+.materi-tkm{
+    margin-top:100px;
+}
+
+.materi-tkm .k-materi-tkm h1{
+    text-align:center;
+    font-size: 40px;
+}
+
+.materi-tkm .k-materi-tkm ul li{
+    display:block;
+    border-bottom:1px solid black;
+    padding:20px;
+    margin-top:10px;
+    width:900px;
+    margin-left:200px;
+}
+
+.materi-tkm .k-materi-tkm ul li h2{
+    font-size:16px;
+}
+
+
+
+
+/* ------------------- */
+
+
+/* ------------------- */
+
+.km-welcome{
+    padding-top:100px;
+    padding-bottom:100px;
+    background-image:url('img2/d-iot-2-1.png');
+    background-size:cover;
+    background-repeat:no-repeat;
+    padding-top:50px;
+    padding-bottom:50px;
+    background-position:0 -60px;
+}
+.sub-j-km-welcome{
+    font-size:22px;
+    margin-left:100px;
+    color:white;
+    margin-top:100px;
+}
+.km-welcome .j-km-welcome{
+    font-size:45px;
+    margin-left:100px;
+    color:white;
+    margin-right: 700px;
+    margin-top:-15px;
+}
+
+.p-j-km-welcome{
+     color:white;
+     font-size:16px;
+     margin-left:100px;
+     margin-right: 700px;
+     line-height:25px;
+}
+
+.km-welcome .daftar{
+    color:white;
+    font-size:16px;
+    font-weight:bold;
+    background-color: #cc2d3f;
+    border:none;
+    margin-left:100px;
+    width: 200px;
+    height:50px;
+    border-radius:20px;
+    box-shadow: 0 2px 2px rgba(0,0,0,.2);
+}
+
+.tkm{
+    margin-top:100px;
+}
+.tkm{
+    font-size:22px;
+    margin-left:0px;
+    text-align:center;
+    margin-top:100px;
+}
+.tkm .j-tkm{
+    font-size:45px;
+    margin-left:0px;
+    margin-right: 0px;
+    margin-top:-15px;
+    text-align:center;
+}
+
+.p-j-tkm,
+.p-j-tkm-2,
+.p-j-tkm-3
+{
+     font-size:18px;
+     margin-left:100px;
+     margin-right:100px;
+     line-height:30px;
+     text-align:justify
+}
+
+.tkm .k-tkm ol li{
+    text-align:left;
+    font-size: 18px;
+    margin-left:100px;
+    
+}
+
+
+/* ------------------- */
+
+.kl-welcome{
+    padding-top:100px;
+    padding-bottom:100px;
+    background-image:url('img2/d-iot-3-1.png');
+    background-size:cover;
+    background-repeat:no-repeat;
+    padding-top:50px;
+    padding-bottom:50px;
+    background-position:0 -60px;
+}
+.sub-j-kl-welcome{
+    font-size:22px;
+    margin-left:100px;
+    color:white;
+    margin-top:100px;
+}
+.kl-welcome .j-kl-welcome{
+    font-size:45px;
+    margin-left:100px;
+    color:white;
+    margin-right: 700px;
+    margin-top:-15px;
+}
+
+.p-j-kl-welcome{
+     color:white;
+     font-size:16px;
+     margin-left:100px;
+     margin-right: 700px;
+     line-height:25px;
+}
+
+.kl-welcome .daftar{
+    color:white;
+    font-size:16px;
+    font-weight:bold;
+    background-color: #cc2d3f;
+    border:none;
+    margin-left:100px;
+    width: 200px;
+    height:50px;
+    border-radius:20px;
+    box-shadow: 0 2px 2px rgba(0,0,0,.2);
+}
+
+
+
+
+/* ------------------- */
+
+
+/* ------------------- */
+
+.k-lite-welcome{
+    padding-top:100px;
+    padding-bottom:100px;
+    background-image:url('img2/d-iot-4-1.png');
+    background-size:cover;
+    background-repeat:no-repeat;
+    padding-top:50px;
+    padding-bottom:50px;
+    background-position:0 -60px;
+}
+.sub-j-k-lite-welcome{
+    font-size:22px;
+    margin-left:100px;
+    color:white;
+    margin-top:100px;
+}
+.k-lite-welcome .j-k-lite-welcome{
+    font-size:45px;
+    margin-left:100px;
+    color:white;
+    margin-right: 700px;
+    margin-top:-15px;
+}
+
+.p-j-k-lite-welcome{
+     color:white;
+     font-size:16px;
+     margin-left:100px;
+     margin-right: 700px;
+     line-height:25px;
+}
+
+.k-lite-welcome .daftar{
+    color:white;
+    font-size:16px;
+    font-weight:bold;
+    background-color: #cc2d3f;
+    border:none;
+    margin-left:100px;
+    width: 200px;
+    height:50px;
+    border-radius:20px;
+    box-shadow: 0 2px 2px rgba(0,0,0,.2);
+}
+
+/*-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+@media screen and (min-width:1200px) and (max-width: 1400px){
+.container{
+    width:100%; 
+    background-image:url('img2/bg-about-us.jpg');
+    background-size:cover;
+    background-repeat:no-repeat;
+    position:relative;
+    z-index:99;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color:;
+}
+
+.topnav a {
+  float:right;
+  display: inline-block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  margin-top:7px;
+  margin-right: 0px;
+}
+
+
+.topnav a.active {
+  font-weight:bold;
+}
+
+.topnav .logo{
+    float: left;
+    font-size:25px;
+    font-weight:bold;
+    margin-left: 100px;
+    margin-top:0px;
+}
+
+.topnav .kategori{
+    margin-right: 100px;
+}
+
+.topnav .icon {
+  display: none;
+}
+
+/* ------------------- */
+
+.welcome{
+    background-image:url('img2/bg-welcome-2.png');
+    background-size:cover;
+    background-repeat:no-repeat;
+    padding-top:100px;
+    padding-bottom:100px;
+}
+
+.welcome .k-welcome h1{
+    font-family: Century Gothic;
+    margin-left:100px;
+    font-size:45px;
+}
+
+.welcome .k-welcome p{
+   font-size: 18px;
+   line-height:36px;
+   text-align:justify;
+   margin-left:100px;
+   margin-right:700px;
+   margin-top:-10px;
+}
+
+.welcome .k-welcome .daftar{
+    color:white;
+    font-size:16px;
+    font-weight:bold;
+    background-color: #cc2d3f;
+    border:none;
+    margin-left:100px;
+    width: 200px;
+    height:50px;
+    border-radius:20px;
+    box-shadow: 0 2px 2px rgba(0,0,0,.2);
+}
+
+
+/* ------------------- */
+
+
+/* ------------------- */
+
+.t-sekolahkami{
+    margin-top:100px;
+  
+}
+
+.t-sekolahkami .k-t-sekolahkami h1{
+     font-size:40px;
+     font-family: Century Gothic;
+     margin-left: 100px;
+}
+
+.t-sekolahkami .k-t-sekolahkami p{
+     font-size:20px;
+     font-family: Century Gothic;
+     margin-left: 100px;
+     margin-right: 100px;
+     line-height:30px;
+     text-align:justify;
+
+}
+
+
+/* ------------------- */
+
+
+
+/* ------------------- */
+
+.masalah{
+    margin-top:100px;
+}
+
+.masalah .k-masalah{
+    background-image:url('img2/bg-masalah-2.png');
+    background-size:cover;
+    background-repeat:no-repeat;
+    padding-top:50px;
+    padding-bottom:50px;
+    background-position:0 -60px;
+}
+
+.masalah .k-masalah h1{
+     font-family: Century Gothic;
+     font-size:25px;
+     margin-left:100px;
+      color:white;
+}
+
+.masalah .k-masalah .m-1,
+.masalah .k-masalah .m-2,
+.masalah .k-masalah .m-3{
+    margin-top:10px;
+    margin-left:100px;
+    margin-right:0px;
+    box-shadow: 0 5px 10px rgba(0,0,0,.5);
+    padding:20px;
+    border-radius:20px;
+    background-color:rgba(255,255,255,.8);
+    display:inline-block;
+}
+
+.masalah .k-masalah .m-2,
+.masalah .k-masalah .m-3{
+    margin-left:30px;
+    margin-right:0px;
+    box-shadow: 0 5px 10px rgba(0,0,0,.5);
+    padding:20px;
+    border-radius:20px;
+}
+
+.masalah .k-masalah .m-1 img,
+.masalah .k-masalah .m-2 img,
+.masalah .k-masalah .m-3 img{
+    width:55px;
+}
+
+.masalah .k-masalah .m-1 h2,
+.masalah .k-masalah .m-2 h2,
+.masalah .k-masalah .m-3 h2{
+    font-size:20px;
+    font-weight:bold;
+}
+
+.masalah .k-masalah .m-1 p,
+.masalah .k-masalah .m-2 p,
+.masalah .k-masalah .m-3 p{
+    font-size:17px;
+    margin-right:0px;
+    
+}
+
+
+/* ------------------- */
+
+.mengapa-kami{
+    margin-top:100px;
+    margin-right:0;
+    text-align:center;
+}
+
+.mengapa-kami .k-mengapa-kami h1{
+    text-align:center;
+    font-size:40px;
+}
+
+.mengapa-kami .k-mengapa-kami .p-h1{
+    text-align:center;
+    margin-right: 300px;
+    margin-left: 300px;
+    margin-bottom: 0px;
+    margin-top:-20px;
+    line-height:30px;
+}
+
+.mengapa-kami .k-mengapa-kami .why-1,
+.mengapa-kami .k-mengapa-kami .why-2,
+.mengapa-kami .k-mengapa-kami .why-3{
+      width: 400px;
+      margin-top:0px;
+      background-color:;
+      margin-left:0px;
+      padding:20px;
+      margin-left:0px;
+      display:inline-block;
+}
+
+.mengapa-kami .k-mengapa-kami .why-2,
+.mengapa-kami .k-mengapa-kami .why-3{
+     margin-left:0px;
+     
+}
+
+.mengapa-kami .k-mengapa-kami .why-3{
+    margin-right:0px;
+}
+
+.mengapa-kami .k-mengapa-kami .why-1 img,
+.mengapa-kami .k-mengapa-kami .why-2 img,
+.mengapa-kami .k-mengapa-kami .why-3 img
+{
+    width : 70px;
+    margin-right: 0px;
+}
+.mengapa-kami .k-mengapa-kami .why-1 h2,
+.mengapa-kami .k-mengapa-kami .why-2 h2,
+.mengapa-kami .k-mengapa-kami .why-3 h2
+{
+   font-size:20px;
+   margin-right: 0px;
+  
+}
+
+.mengapa-kami .k-mengapa-kami .why-2 h2,
+.mengapa-kami .k-mengapa-kami .why-3 h2
+{
+    font-size:20px;
+    margin-bottom:0px;
+}
+
+
+.mengapa-kami .k-mengapa-kami .why-1 p,
+.mengapa-kami .k-mengapa-kami .why-2 p,
+.mengapa-kami .k-mengapa-kami .why-3 p{
+    font-size:17px;
+    text-align:justify;
+    line-height:30px;
+    margin-right: 0px;
+}
+.mengapa-kami .k-mengapa-kami .why-3 p{
+   
+}
+
+
+/* ------------------- */
+
+
+
+/* ------------------- */
+
+.rekomendasi{
+    margin-top:100px;
+    margin-left:100px;
+    margin-right:0px;
+}
+
+.rekomendasi h1{
+    margin-left:0px;
+    
+}
+
+.rekomendasi .k-rekomendasi .r-1,
+.rekomendasi .k-rekomendasi .r-2,
+.rekomendasi .k-rekomendasi .r-3,
+.rekomendasi .k-rekomendasi .r-4
+{
+    width:300px;
+    text-align:center;
+    box-shadow:0 2px 5px rgba(0,0,0,.5);
+    padding:20px;
+    border-radius: 20px;
+    display:inline-block;
+    margin-left:0px;
+    margin-right:10px;
+    background-color:rgba(255,255,255,.8);
+    
+}
+
+.rekomendasi .k-rekomendasi .r-2,
+.rekomendasi .k-rekomendasi .r-3{
+    
+}
+
+.rekomendasi .k-rekomendasi .r-1 img{
+    width:250px;
+}
+
+.rekomendasi .k-rekomendasi .r-2 img{
+    width:265px;
+}
+
+.rekomendasi .k-rekomendasi .r-3 img{
+    width:260px;
+}
+
+.rekomendasi .k-rekomendasi .r-4 img{
+    width: 247px;
+}
+
+
+.rekomendasi .k-rekomendasi .r-1 img,
+.rekomendasi .k-rekomendasi .r-2 img,
+.rekomendasi .k-rekomendasi .r-3 img,
+.rekomendasi .k-rekomendasi .r-4 img{
+  margin-top:20px;
+  border-radius:30px;
+}
+
+.rekomendasi .k-rekomendasi .r-1 h2,
+.rekomendasi .k-rekomendasi .r-2 h2,
+.rekomendasi .k-rekomendasi .r-3 h2,
+.rekomendasi .k-rekomendasi .r-4 h2
+{
+    text-align:left;
+    font-size: 18px;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+.rekomendasi .k-rekomendasi .r-2 h2
+{
+    
+}
+
+.rekomendasi .k-rekomendasi .r-1 p,
+.rekomendasi .k-rekomendasi .r-2 p,
+.rekomendasi .k-rekomendasi .r-3 p,
+.rekomendasi .k-rekomendasi .r-4 p,
+.rekomendasi .k-rekomendasi .r-1 .p-r-1,
+.rekomendasi .k-rekomendasi .r-2 .p-r-2,
+.rekomendasi .k-rekomendasi .r-3 .p-r-3,
+.rekomendasi .k-rekomendasi .r-4 .p-r-4{
+    text-align:justify;
+    font-size: 25px;
+    font-weight:bold;
+    margin-left: 10px;
+    margin-right: 20px;
+    font-family:Calibri;
+}
+
+.rekomendasi .k-rekomendasi .r-1 .p-r-1,
+.rekomendasi .k-rekomendasi .r-2 .p-r-2,
+.rekomendasi .k-rekomendasi .r-3 .p-r-3,
+.rekomendasi .k-rekomendasi .r-4 .p-r-4{
+    text-align:justify;
+    font-size: 14px;
+    margin-left: 10px;
+    margin-right: 20px;
+    font-weight:normal;
+}
+
+.rekomendasi .k-rekomendasi .l-h{
+    color: #cc2d3f;
+    font-size:16px;
+    font-weight:bold;
+    background-color:transparent;
+    border:3px solid #cc2d3f;
+    margin-left:0px;
+    width: 300px;
+    height:50px;
+    border-radius:10px;
+    box-shadow: 0 2px 2px rgba(0,0,0,.2);
+}
+
+/* ------------------- */
+
+
+
+/* ------------------- */
+
+.persuasi{
+    margin-top:50px;
+    
+}
+
+.persuasi .p-1,
+.persuasi .p-2{
+}
+
+.persuasi .p-2{
+    
+}
+
+.persuasi .p-1 img{
+    width: 550px;
+    margin-left:70px;
+}
+
+.persuasi .p-1 .bg-p{
+    width: 1314px;
+    height:280px;
+    margin-left:100px;
+    position:absolute;
+    margin-top:87px;
+    z-index:-1;
+    filter:drop-shadow(0 5px 5px rgba(0,0,0,.5));
+    display:block;
+}
+
+.persuasi .p-2 h1{
+    font-weight:bold;
+    font-size:36px;
+    margin-top:-240px;
+    margin-left:600px;
+    margin-right:200px;
+    font-family:Franklin Gothic Medium;
+}
+
+.persuasi .p-2 .daftar{
+    color:white;
+    font-size:16px;
+    font-weight:bold;
+    background-color: #cc2d3f;
+    border:none;
+    margin-left:600px;
+    width: 200px;
+    height:50px;
+    border-radius:20px;
+    box-shadow: 0 2px 2px rgba(0,0,0,.2);
+}
+
+
+
+/* ------------------- */
+
+.f-kontak{
+    margin-top:100px;
+    margin-left:0px;
+    background-color:rgba(159,174,179,.5);
+}
+
+.f-kontak .k-f-kontak .fk-1,
+.f-kontak .k-f-kontak .fk-2{
+   
+}
+
+.f-kontak .k-f-kontak .fk-1 h2{
+    font-size:16px;
+    margin-left:100px;
+}
+
+.f-kontak .k-f-kontak .fk-1 p{
+     margin-left:100px;
+     margin-right:50px;
+     font-size:17px;
+}
+
+.f-kontak .k-f-kontak .fk-2-utama{
+    margin-top:-61px;
+    display:block;
+}
+
+.f-kontak .k-f-kontak .fk-2-kedua{
+    margin-top:-61px;
+    display:none;
+}
+
+.f-kontak .k-f-kontak .fk-2-utama h2{
+    font-size:16px;
+    margin-left:0px;
+}
+
+.f-kontak .k-f-kontak .fk-2-utama img{
+    margin-left:0px;
+    margin-right:100px;
+}
+
+.copyright{
+    padding:5px;
+    text-align:center;
+    font-weight: bold;
+}
+
+
+/* ------------------- */
+
+
+/* ------------------- */
+
+.k-iot{
+    padding-top:100px;
+}
+
+.k-iot .k-k-iot .j-k-iot{
+    text-align:center;
+    font-size:40px;
+}
+
+.k-iot .k-k-iot .j-rekomendasi{
+    font-size: 30px;
+    margin-left: -40px;
+}
+
+.k-iot .k-k-iot .r-1{
+    margin-left: -40px;
+}
+/* ------------------- */
+
+
+
+/* ------------------- */
+
+.kd-welcome{
+    padding-top:100px;
+    padding-bottom:100px;
+    background-image:url('img2/d-iot-1.png');
+    background-size:cover;
+    background-repeat:no-repeat;
+    padding-top:50px;
+    padding-bottom:50px;
+    background-position:0 -60px;
+}
+.sub-j-kd-welcome{
+    font-size:22px;
+    margin-left:100px;
+    color:white;
+    margin-top:100px;
+}
+.kd-welcome .j-kd-welcome{
+    font-size:45px;
+    margin-left:100px;
+    color:white;
+    margin-right: 700px;
+    margin-top:-15px;
+}
+
+.p-j-kd-welcome{
+     color:white;
+     font-size:16px;
+     margin-left:100px;
+     margin-right: 700px;
+     line-height:25px;
+}
+
+.kd-welcome .daftar{
+    color:white;
+    font-size:16px;
+    font-weight:bold;
+    background-color: #cc2d3f;
+    border:none;
+    margin-left:100px;
+    width: 200px;
+    height:50px;
+    border-radius:20px;
+    box-shadow: 0 2px 2px rgba(0,0,0,.2);
+}
+
+
+/* ------------------- */
+
+
+
+
+/* ------------------- */
+
+.tkd{
+    margin-top:100px;
+}
+.sub-j-tkd{
+    font-size:22px;
+    margin-left:0px;
+    text-align:center;
+    margin-top:100px;
+}
+.tkd .j-tkd{
+    font-size:45px;
+    margin-left:0px;
+    margin-right: 0px;
+    margin-top:-15px;
+    text-align:center;
+}
+
+.p-j-tkd,
+.p-j-tkd-2,
+.p-j-tkd-3
+{
+     font-size:18px;
+     margin-left:100px;
+     margin-right:100px;
+     line-height:30px;
+     text-align:justify
+}
+
+
+/* ------------------- */
+
+
+.benefits-tkd{
+    margin-top:100px;
+    background-image:url('img2/bg-benefits.png');
+    background-repeat:no-repeat;
+    background-size:cover;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.benefits-tkd .k-benefits-tkd .j-benefits-tkd{
+    margin-left:0px;
+    font-size: 40px;
+    text-align:center;
+    color:white;
+   
+}
+
+.benefits-tkd .k-benefits-tkd .mengapa-kami{
+    margin-top:0;
+}
+
+.benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-1,
+.benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-3{
+    margin-right:30px;
+}
+
+.benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-3{
+    margin-left:30px;
+}
+
+.benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-2{
+    margin-top:0px;
+}
+
+.benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-1,
+.benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-2,
+.benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-3,
+.benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-4{
+    box-shadow:0 2px 5px rgba(0,0,0,.5);
+    border-radius:30px;
+    background-color:rgba(255,255,255,.8);
+}
+
+
+.benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-4{
+    padding:20px;
+    margin-top:10px;
+    margin-right:300px;
+    margin-left:300px;
+}
+
+.benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-4 img{
+    width:70px
+}
+
+.benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-4 h2{
+    font-size:20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+
+/* ------------------- */
+
+
+
+/* ------------------- */
+
+
+.materi{
+    margin-top:100px;
+}
+
+.materi .k-materi h1{
+    text-align:center;
+    font-size: 40px;
+}
+
+.materi .k-materi ul li{
+    display:block;
+    border-bottom:1px solid black;
+    padding:20px;
+    margin-top:10px;
+    width:900px;
+    margin-left:200px;
+}
+
+.materi .k-materi ul li h2{
+    font-size:16px;
+}
+
+/* ------------------- */
+
+.materi-tkm{
+    margin-top:100px;
+}
+
+.materi-tkm .k-materi-tkm h1{
+    text-align:center;
+    font-size: 40px;
+}
+
+.materi-tkm .k-materi-tkm ul li{
+    display:block;
+    border-bottom:1px solid black;
+    padding:20px;
+    margin-top:10px;
+    width:900px;
+    margin-left:200px;
+}
+
+.materi-tkm .k-materi-tkm ul li h2{
+    font-size:16px;
+}
+
+
+
+
+/* ------------------- */
+
+
+/* ------------------- */
+
+.km-welcome{
+    padding-top:100px;
+    padding-bottom:100px;
+    background-image:url('img2/d-iot-2-1.png');
+    background-size:cover;
+    background-repeat:no-repeat;
+    padding-top:50px;
+    padding-bottom:50px;
+    background-position:0 -60px;
+}
+.sub-j-km-welcome{
+    font-size:22px;
+    margin-left:100px;
+    color:white;
+    margin-top:100px;
+}
+.km-welcome .j-km-welcome{
+    font-size:45px;
+    margin-left:100px;
+    color:white;
+    margin-right: 700px;
+    margin-top:-15px;
+}
+
+.p-j-km-welcome{
+     color:white;
+     font-size:16px;
+     margin-left:100px;
+     margin-right: 700px;
+     line-height:25px;
+}
+
+.km-welcome .daftar{
+    color:white;
+    font-size:16px;
+    font-weight:bold;
+    background-color: #cc2d3f;
+    border:none;
+    margin-left:100px;
+    width: 200px;
+    height:50px;
+    border-radius:20px;
+    box-shadow: 0 2px 2px rgba(0,0,0,.2);
+}
+
+.tkm{
+    margin-top:100px;
+}
+.tkm{
+    font-size:22px;
+    margin-left:0px;
+    text-align:center;
+    margin-top:100px;
+}
+.tkm .j-tkm{
+    font-size:45px;
+    margin-left:0px;
+    margin-right: 0px;
+    margin-top:-15px;
+    text-align:center;
+}
+
+.p-j-tkm,
+.p-j-tkm-2,
+.p-j-tkm-3
+{
+     font-size:18px;
+     margin-left:100px;
+     margin-right:100px;
+     line-height:30px;
+     text-align:justify
+}
+
+.tkm .k-tkm ol li{
+    text-align:left;
+    font-size: 18px;
+    margin-left:100px;
+    
+}
+
+
+/* ------------------- */
+
+.kl-welcome{
+    padding-top:100px;
+    padding-bottom:100px;
+    background-image:url('img2/d-iot-3-1.png');
+    background-size:cover;
+    background-repeat:no-repeat;
+    padding-top:50px;
+    padding-bottom:50px;
+    background-position:0 -60px;
+}
+.sub-j-kl-welcome{
+    font-size:22px;
+    margin-left:100px;
+    color:white;
+    margin-top:100px;
+}
+.kl-welcome .j-kl-welcome{
+    font-size:45px;
+    margin-left:100px;
+    color:white;
+    margin-right: 700px;
+    margin-top:-15px;
+}
+
+.p-j-kl-welcome{
+     color:white;
+     font-size:16px;
+     margin-left:100px;
+     margin-right: 700px;
+     line-height:25px;
+}
+
+.kl-welcome .daftar{
+    color:white;
+    font-size:16px;
+    font-weight:bold;
+    background-color: #cc2d3f;
+    border:none;
+    margin-left:100px;
+    width: 200px;
+    height:50px;
+    border-radius:20px;
+    box-shadow: 0 2px 2px rgba(0,0,0,.2);
+}
+
+
+
+
+/* ------------------- */
+
+
+/* ------------------- */
+
+.k-lite-welcome{
+    padding-top:100px;
+    padding-bottom:100px;
+    background-image:url('img2/d-iot-4-1.png');
+    background-size:cover;
+    background-repeat:no-repeat;
+    padding-top:50px;
+    padding-bottom:50px;
+    background-position:0 -60px;
+}
+.sub-j-k-lite-welcome{
+    font-size:22px;
+    margin-left:100px;
+    color:white;
+    margin-top:100px;
+}
+.k-lite-welcome .j-k-lite-welcome{
+    font-size:45px;
+    margin-left:100px;
+    color:white;
+    margin-right: 700px;
+    margin-top:-15px;
+}
+
+.p-j-k-lite-welcome{
+     color:white;
+     font-size:16px;
+     margin-left:100px;
+     margin-right: 700px;
+     line-height:25px;
+}
+
+.k-lite-welcome .daftar{
+    color:white;
+    font-size:16px;
+    font-weight:bold;
+    background-color: #cc2d3f;
+    border:none;
+    margin-left:100px;
+    width: 200px;
+    height:50px;
+    border-radius:20px;
+    box-shadow: 0 2px 2px rgba(0,0,0,.2);
+}
+
+}
+
+/*-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+@media screen and (min-width: 1400px){
+    .container{
+    width:100%; 
+    background-image:url('img2/bg-about-us.jpg');
+    background-size:cover;
+    background-repeat:no-repeat;
+    position:relative;
+    z-index:99;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color:;
+}
+
+.topnav a {
+  float:right;
+  display: inline-block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  margin-top:7px;
+  margin-right: 0px;
+}
+
+
+.topnav a.active {
+  font-weight:bold;
+}
+
+.topnav .logo{
+    float: left;
+    font-size:25px;
+    font-weight:bold;
+    margin-left: 100px;
+    margin-top:0px;
+}
+
+.topnav .kategori{
+    margin-right: 100px;
+}
+
+.topnav .icon {
+  display: none;
+}
+
+/* ------------------- */
+
+.welcome{
+    background-image:url('img2/bg-welcome-2.png');
+    background-size:cover;
+    background-repeat:no-repeat;
+    padding-top:100px;
+    padding-bottom:100px;
+}
+
+.welcome .k-welcome h1{
+    font-family: Century Gothic;
+    margin-left:100px;
+    font-size:45px;
+}
+
+.welcome .k-welcome p{
+   font-size: 18px;
+   line-height:36px;
+   text-align:justify;
+   margin-left:100px;
+   margin-right:700px;
+   margin-top:-10px;
+}
+
+.welcome .k-welcome .daftar{
+    color:white;
+    font-size:16px;
+    font-weight:bold;
+    background-color: #cc2d3f;
+    border:none;
+    margin-left:100px;
+    width: 200px;
+    height:50px;
+    border-radius:20px;
+    box-shadow: 0 2px 2px rgba(0,0,0,.2);
+}
+
+
+/* ------------------- */
+
+
+/* ------------------- */
+
+.t-sekolahkami{
+    margin-top:100px;
+  
+}
+
+.t-sekolahkami .k-t-sekolahkami h1{
+     font-size:40px;
+     font-family: Century Gothic;
+     margin-left: 100px;
+}
+
+.t-sekolahkami .k-t-sekolahkami .p-t-sk-utama{
+     font-size:20px;
+     font-family: Century Gothic;
+     margin-left: 100px;
+     margin-right: 100px;
+     line-height:30px;
+     text-align:justify;
+     display:block;
+}
+
+.t-sekolahkami .k-t-sekolahkami .p-t-sk-kedua{
+     font-size:20px;
+     font-family: Century Gothic;
+     margin-left: 20px;
+     margin-right: 20px;
+     line-height:30px;
+     text-align:justify;
+     display:none;
+}
+
+/* ------------------- */
+
+
+
+/* ------------------- */
+
+.masalah{
+    margin-top:100px;
+}
+
+.masalah .k-masalah{
+    background-image:url('img2/bg-masalah-2.png');
+    background-size:cover;
+    background-repeat:no-repeat;
+    padding-top:50px;
+    padding-bottom:50px;
+    background-position:0 -60px;
+}
+
+.masalah .k-masalah h1{
+     font-family: Century Gothic;
+     font-size:25px;
+     margin-left:100px;
+      color:white;
+}
+
+.masalah .k-masalah .m-1,
+.masalah .k-masalah .m-2,
+.masalah .k-masalah .m-3{
+    margin-top:10px;
+    margin-left:100px;
+    margin-right:0px;
+    box-shadow: 0 5px 10px rgba(0,0,0,.5);
+    padding:20px;
+    border-radius:20px;
+    background-color:rgba(255,255,255,.8);
+    display:inline-block;
+}
+
+.masalah .k-masalah .m-2,
+.masalah .k-masalah .m-3{
+    margin-left:30px;
+    margin-right:0px;
+    box-shadow: 0 5px 10px rgba(0,0,0,.5);
+    padding:20px;
+    border-radius:20px;
+}
+
+.masalah .k-masalah .m-1 img,
+.masalah .k-masalah .m-2 img,
+.masalah .k-masalah .m-3 img{
+    width:55px;
+}
+
+.masalah .k-masalah .m-1 h2,
+.masalah .k-masalah .m-2 h2,
+.masalah .k-masalah .m-3 h2{
+    font-size:20px;
+    font-weight:bold;
+}
+
+.masalah .k-masalah .m-1 p,
+.masalah .k-masalah .m-2 p,
+.masalah .k-masalah .m-3 p{
+    font-size:17px;
+    margin-right:0px;
+    
+}
+
+
+/* ------------------- */
+
+.mengapa-kami{
+    margin-top:100px;
+    margin-right:0;
+    text-align:center;
+}
+
+.mengapa-kami .k-mengapa-kami h1{
+    text-align:center;
+    font-size:40px;
+}
+
+.mengapa-kami .k-mengapa-kami .p-h1{
+    text-align:center;
+    margin-right: 300px;
+    margin-left: 300px;
+    margin-bottom: 0px;
+    margin-top:-20px;
+    line-height:30px;
+}
+
+.mengapa-kami .k-mengapa-kami .why-1,
+.mengapa-kami .k-mengapa-kami .why-2,
+.mengapa-kami .k-mengapa-kami .why-3{
+      width: 400px;
+      margin-top:0px;
+      background-color:;
+      margin-left:0px;
+      padding:20px;
+      margin-left:0px;
+      display:inline-block;
+}
+
+.mengapa-kami .k-mengapa-kami .why-2,
+.mengapa-kami .k-mengapa-kami .why-3{
+     margin-left:0px;
+     
+}
+
+.mengapa-kami .k-mengapa-kami .why-3{
+    margin-right:0px;
+}
+
+.mengapa-kami .k-mengapa-kami .why-1 img,
+.mengapa-kami .k-mengapa-kami .why-2 img,
+.mengapa-kami .k-mengapa-kami .why-3 img
+{
+    width : 70px;
+    margin-right: 0px;
+}
+.mengapa-kami .k-mengapa-kami .why-1 h2,
+.mengapa-kami .k-mengapa-kami .why-2 h2,
+.mengapa-kami .k-mengapa-kami .why-3 h2
+{
+   font-size:20px;
+   margin-right: 0px;
+  
+}
+
+.mengapa-kami .k-mengapa-kami .why-2 h2,
+.mengapa-kami .k-mengapa-kami .why-3 h2
+{
+    font-size:20px;
+    margin-bottom:0px;
+}
+
+
+.mengapa-kami .k-mengapa-kami .why-1 p,
+.mengapa-kami .k-mengapa-kami .why-2 p,
+.mengapa-kami .k-mengapa-kami .why-3 p{
+    font-size:17px;
+    text-align:justify;
+    line-height:30px;
+    margin-right: 0px;
+}
+.mengapa-kami .k-mengapa-kami .why-3 p{
+   
+}
+
+
+/* ------------------- */
+
+
+
+/* ------------------- */
+
+.rekomendasi{
+    margin-top:100px;
+    margin-left:100px;
+    margin-right:0px;
+}
+
+.rekomendasi h1{
+    margin-left:0px;
+    
+}
+
+.rekomendasi .k-rekomendasi .r-1,
+.rekomendasi .k-rekomendasi .r-2,
+.rekomendasi .k-rekomendasi .r-3,
+.rekomendasi .k-rekomendasi .r-4
+{
+    width:300px;
+    text-align:center;
+    box-shadow:0 2px 5px rgba(0,0,0,.5);
+    padding:20px;
+    border-radius: 20px;
+    display:inline-block;
+    margin-left:0px;
+    margin-right:10px;
+    background-color:rgba(255,255,255,.8);
+    
+}
+
+.rekomendasi .k-rekomendasi .r-2,
+.rekomendasi .k-rekomendasi .r-3{
+    
+}
+
+.rekomendasi .k-rekomendasi .r-1 img{
+    width:250px;
+}
+
+.rekomendasi .k-rekomendasi .r-2 img{
+    width:265px;
+}
+
+.rekomendasi .k-rekomendasi .r-3 img{
+    width:260px;
+}
+
+.rekomendasi .k-rekomendasi .r-4 img{
+    width: 247px;
+}
+
+
+.rekomendasi .k-rekomendasi .r-1 img,
+.rekomendasi .k-rekomendasi .r-2 img,
+.rekomendasi .k-rekomendasi .r-3 img,
+.rekomendasi .k-rekomendasi .r-4 img{
+  margin-top:20px;
+  border-radius:30px;
+}
+
+.rekomendasi .k-rekomendasi .r-1 h2,
+.rekomendasi .k-rekomendasi .r-2 h2,
+.rekomendasi .k-rekomendasi .r-3 h2,
+.rekomendasi .k-rekomendasi .r-4 h2
+{
+    text-align:left;
+    font-size: 18px;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+.rekomendasi .k-rekomendasi .r-2 h2
+{
+    
+}
+
+.rekomendasi .k-rekomendasi .r-1 p,
+.rekomendasi .k-rekomendasi .r-2 p,
+.rekomendasi .k-rekomendasi .r-3 p,
+.rekomendasi .k-rekomendasi .r-4 p,
+.rekomendasi .k-rekomendasi .r-1 .p-r-1,
+.rekomendasi .k-rekomendasi .r-2 .p-r-2,
+.rekomendasi .k-rekomendasi .r-3 .p-r-3,
+.rekomendasi .k-rekomendasi .r-4 .p-r-4{
+    text-align:justify;
+    font-size: 25px;
+    font-weight:bold;
+    margin-left: 10px;
+    margin-right: 20px;
+    font-family:Calibri;
+}
+
+.rekomendasi .k-rekomendasi .r-1 .p-r-1,
+.rekomendasi .k-rekomendasi .r-2 .p-r-2,
+.rekomendasi .k-rekomendasi .r-3 .p-r-3,
+.rekomendasi .k-rekomendasi .r-4 .p-r-4{
+    text-align:justify;
+    font-size: 14px;
+    margin-left: 10px;
+    margin-right: 20px;
+    font-weight:normal;
+}
+
+.rekomendasi .k-rekomendasi .l-h{
+    color: #cc2d3f;
+    font-size:16px;
+    font-weight:bold;
+    background-color:transparent;
+    border:3px solid #cc2d3f;
+    margin-left:0px;
+    width: 300px;
+    height:50px;
+    border-radius:10px;
+    box-shadow: 0 2px 2px rgba(0,0,0,.2);
+}
+
+/* ------------------- */
+
+
+
+/* ------------------- */
+
+.persuasi{
+    margin-top:50px;
+    
+}
+
+.persuasi .p-1,
+.persuasi .p-2{
+}
+
+.persuasi .p-2{
+    
+}
+
+.persuasi .p-1 img{
+    width: 550px;
+    margin-left:70px;
+}
+
+.persuasi .p-1 .bg-p{
+    width: 1314px;
+    height:280px;
+    margin-left:100px;
+    position:absolute;
+    margin-top:87px;
+    z-index:-1;
+    filter:drop-shadow(0 5px 5px rgba(0,0,0,.5));
+    display:block;
+}
+
+.persuasi .p-2 h1{
+    font-weight:bold;
+    font-size:36px;
+    margin-top:-240px;
+    margin-left:600px;
+    margin-right:200px;
+    font-family:Franklin Gothic Medium;
+}
+
+.persuasi .p-2 .daftar{
+    color:white;
+    font-size:16px;
+    font-weight:bold;
+    background-color: #cc2d3f;
+    border:none;
+    margin-left:600px;
+    width: 200px;
+    height:50px;
+    border-radius:20px;
+    box-shadow: 0 2px 2px rgba(0,0,0,.2);
+}
+
+
+
+/* ------------------- */
+
+.f-kontak{
+    margin-top:100px;
+    margin-left:0px;
+    background-color:rgba(159,174,179,.5);
+}
+
+.f-kontak .k-f-kontak .fk-1,
+.f-kontak .k-f-kontak .fk-2{
+   
+}
+
+.f-kontak .k-f-kontak .fk-1 h2{
+    font-size:16px;
+    margin-left:100px;
+}
+
+.f-kontak .k-f-kontak .fk-1 p{
+     margin-left:100px;
+     margin-right:50px;
+     font-size:17px;
+}
+
+.f-kontak .k-f-kontak .fk-2-utama{
+    margin-top:-61px;
+    display:block;
+}
+
+.f-kontak .k-f-kontak .fk-2-kedua{
+    margin-top:-61px;
+    display:none;
+}
+
+.f-kontak .k-f-kontak .fk-2-utama h2{
+    font-size:16px;
+    margin-left:0px;
+}
+
+.f-kontak .k-f-kontak .fk-2-utama img{
+    margin-left:0px;
+    margin-right:100px;
+}
+
+.copyright{
+    padding:5px;
+    text-align:center;
+    font-weight: bold;
+}
+
+/* ------------------- */
+
+
+/* ------------------- */
+
+.k-iot{
+    padding-top:100px;
+}
+
+.k-iot .k-k-iot .j-k-iot{
+    text-align:center;
+    font-size:40px;
+}
+
+.k-iot .k-k-iot .j-rekomendasi{
+    font-size: 30px;
+    margin-left: -40px;
+}
+
+.k-iot .k-k-iot .r-1{
+    margin-left: -40px;
+}
+/* ------------------- */
+
+
+
+/* ------------------- */
+
+.kd-welcome{
+    padding-top:100px;
+    padding-bottom:100px;
+    background-image:url('img2/d-iot-1.png');
+    background-size:cover;
+    background-repeat:no-repeat;
+    padding-top:50px;
+    padding-bottom:50px;
+    background-position:0 -60px;
+}
+.sub-j-kd-welcome{
+    font-size:22px;
+    margin-left:100px;
+    color:white;
+    margin-top:100px;
+}
+.kd-welcome .j-kd-welcome{
+    font-size:45px;
+    margin-left:100px;
+    color:white;
+    margin-right: 700px;
+    margin-top:-15px;
+}
+
+.p-j-kd-welcome{
+     color:white;
+     font-size:16px;
+     margin-left:100px;
+     margin-right: 700px;
+     line-height:25px;
+}
+
+.kd-welcome .daftar{
+    color:white;
+    font-size:16px;
+    font-weight:bold;
+    background-color: #cc2d3f;
+    border:none;
+    margin-left:100px;
+    width: 200px;
+    height:50px;
+    border-radius:20px;
+    box-shadow: 0 2px 2px rgba(0,0,0,.2);
+}
+
+
+/* ------------------- */
+
+
+
+
+/* ------------------- */
+
+.tkd{
+    margin-top:100px;
+}
+.sub-j-tkd{
+    font-size:22px;
+    margin-left:0px;
+    text-align:center;
+    margin-top:100px;
+}
+.tkd .j-tkd{
+    font-size:45px;
+    margin-left:0px;
+    margin-right: 0px;
+    margin-top:-15px;
+    text-align:center;
+}
+
+.p-j-tkd,
+.p-j-tkd-2,
+.p-j-tkd-3
+{
+     font-size:18px;
+     margin-left:100px;
+     margin-right:100px;
+     line-height:30px;
+     text-align:justify
+}
+
+
+/* ------------------- */
+
+
+.benefits-tkd{
+    margin-top:100px;
+    background-image:url('img2/bg-benefits.png');
+    background-repeat:no-repeat;
+    background-size:cover;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.benefits-tkd .k-benefits-tkd .j-benefits-tkd{
+    margin-left:0px;
+    font-size: 40px;
+    text-align:center;
+    color:white;
+   
+}
+
+.benefits-tkd .k-benefits-tkd .mengapa-kami{
+    margin-top:0;
+}
+
+.benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-1,
+.benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-3{
+    margin-right:30px;
+}
+
+.benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-3{
+    margin-left:30px;
+}
+
+.benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-2{
+    margin-top:0px;
+}
+
+.benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-1,
+.benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-2,
+.benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-3,
+.benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-4{
+    box-shadow:0 2px 5px rgba(0,0,0,.5);
+    border-radius:30px;
+    background-color:rgba(255,255,255,.8);
+}
+
+
+.benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-4{
+    padding:20px;
+    margin-top:10px;
+    margin-right:300px;
+    margin-left:300px;
+}
+
+.benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-4 img{
+    width:70px
+}
+
+.benefits-tkd .k-benefits-tkd .mengapa-kami .k-mengapa-kami .why-4 h2{
+    font-size:20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+
+/* ------------------- */
+
+
+
+/* ------------------- */
+
+
+.materi{
+    margin-top:100px;
+}
+
+.materi .k-materi h1{
+    text-align:center;
+    font-size: 40px;
+}
+
+.materi .k-materi ul li{
+    display:block;
+    border-bottom:1px solid black;
+    padding:20px;
+    margin-top:10px;
+    width:900px;
+    margin-left:200px;
+}
+
+.materi .k-materi ul li h2{
+    font-size:16px;
+}
+
+/* ------------------- */
+
+.materi-tkm{
+    margin-top:100px;
+}
+
+.materi-tkm .k-materi-tkm h1{
+    text-align:center;
+    font-size: 40px;
+}
+
+.materi-tkm .k-materi-tkm ul li{
+    display:block;
+    border-bottom:1px solid black;
+    padding:20px;
+    margin-top:10px;
+    width:900px;
+    margin-left:200px;
+}
+
+.materi-tkm .k-materi-tkm ul li h2{
+    font-size:16px;
+}
+
+
+
+
+/* ------------------- */
+
+
+/* ------------------- */
+
+.km-welcome{
+    padding-top:100px;
+    padding-bottom:100px;
+    background-image:url('img2/d-iot-2-1.png');
+    background-size:cover;
+    background-repeat:no-repeat;
+    padding-top:50px;
+    padding-bottom:50px;
+    background-position:0 -60px;
+}
+.sub-j-km-welcome{
+    font-size:22px;
+    margin-left:100px;
+    color:white;
+    margin-top:100px;
+}
+.km-welcome .j-km-welcome{
+    font-size:45px;
+    margin-left:100px;
+    color:white;
+    margin-right: 700px;
+    margin-top:-15px;
+}
+
+.p-j-km-welcome{
+     color:white;
+     font-size:16px;
+     margin-left:100px;
+     margin-right: 700px;
+     line-height:25px;
+}
+
+.km-welcome .daftar{
+    color:white;
+    font-size:16px;
+    font-weight:bold;
+    background-color: #cc2d3f;
+    border:none;
+    margin-left:100px;
+    width: 200px;
+    height:50px;
+    border-radius:20px;
+    box-shadow: 0 2px 2px rgba(0,0,0,.2);
+}
+
+.tkm{
+    margin-top:100px;
+}
+.tkm{
+    font-size:22px;
+    margin-left:0px;
+    text-align:center;
+    margin-top:100px;
+}
+.tkm .j-tkm{
+    font-size:45px;
+    margin-left:0px;
+    margin-right: 0px;
+    margin-top:-15px;
+    text-align:center;
+}
+
+.p-j-tkm,
+.p-j-tkm-2,
+.p-j-tkm-3
+{
+     font-size:18px;
+     margin-left:100px;
+     margin-right:100px;
+     line-height:30px;
+     text-align:justify
+}
+
+.tkm .k-tkm ol li{
+    text-align:left;
+    font-size: 18px;
+    margin-left:100px;
+    
+}
+
+
+/* ------------------- */
+
+.kl-welcome{
+    padding-top:100px;
+    padding-bottom:100px;
+    background-image:url('img2/d-iot-3-1.png');
+    background-size:cover;
+    background-repeat:no-repeat;
+    padding-top:50px;
+    padding-bottom:50px;
+    background-position:0 -60px;
+}
+.sub-j-kl-welcome{
+    font-size:22px;
+    margin-left:100px;
+    color:white;
+    margin-top:100px;
+}
+.kl-welcome .j-kl-welcome{
+    font-size:45px;
+    margin-left:100px;
+    color:white;
+    margin-right: 700px;
+    margin-top:-15px;
+}
+
+.p-j-kl-welcome{
+     color:white;
+     font-size:16px;
+     margin-left:100px;
+     margin-right: 700px;
+     line-height:25px;
+}
+
+.kl-welcome .daftar{
+    color:white;
+    font-size:16px;
+    font-weight:bold;
+    background-color: #cc2d3f;
+    border:none;
+    margin-left:100px;
+    width: 200px;
+    height:50px;
+    border-radius:20px;
+    box-shadow: 0 2px 2px rgba(0,0,0,.2);
+}
+
+
+
+
+/* ------------------- */
+
+
+/* ------------------- */
+
+.k-lite-welcome{
+    padding-top:100px;
+    padding-bottom:100px;
+    background-image:url('img2/d-iot-4-1.png');
+    background-size:cover;
+    background-repeat:no-repeat;
+    padding-top:50px;
+    padding-bottom:50px;
+    background-position:0 -60px;
+}
+.sub-j-k-lite-welcome{
+    font-size:22px;
+    margin-left:100px;
+    color:white;
+    margin-top:100px;
+}
+.k-lite-welcome .j-k-lite-welcome{
+    font-size:45px;
+    margin-left:100px;
+    color:white;
+    margin-right: 700px;
+    margin-top:-15px;
+}
+
+.p-j-k-lite-welcome{
+     color:white;
+     font-size:16px;
+     margin-left:100px;
+     margin-right: 700px;
+     line-height:25px;
+}
+
+.k-lite-welcome .daftar{
+    color:white;
+    font-size:16px;
+    font-weight:bold;
+    background-color: #cc2d3f;
+    border:none;
+    margin-left:100px;
+    width: 200px;
+    height:50px;
+    border-radius:20px;
+    box-shadow: 0 2px 2px rgba(0,0,0,.2);
+}
+}
+
+
+@media screen and (max-width: 600px) {
+  .topnav a:not(:first-child) {display: none;}
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  .topnav .logo{
+    float: left;
+    font-size:25px;
+    font-weight:bold;
+    margin-left: 20px;
+    margin-top:0px;
+  }
+}
